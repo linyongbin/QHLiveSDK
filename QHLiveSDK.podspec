@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QHLiveSDK'
-  s.version          = '1.0.1'
+  s.version          = '1.0.0'
   s.summary          = '直播 QHLiveSDK.'
   s.homepage     = "https://github.com/linyongbin/QHLiveSDKTest"
   s.license      = { :type => "MIT", :file => "LICENSE" }
