@@ -1,0 +1,6 @@
+framework module QHLiveSDK {
+  umbrella header "QHLiveSDK.h"
+
+  export *
+  module * { export * }
+}

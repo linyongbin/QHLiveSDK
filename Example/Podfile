@@ -1,0 +1,12 @@
+#use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QHLiveSDK_Example' do
+  pod 'QHLiveSDK', :path => '../'
+  target 'QHLiveSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
